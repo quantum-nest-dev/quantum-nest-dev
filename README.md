@@ -2,24 +2,20 @@
 <h3 align="center">🚀 Frontend Developer | Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Universe+🌌;Frontend+Developer+from+Bangladesh+🚀;Learning+JavaScript+and+Building+Projects+🔥;Code.+Create.+Innovate.+Repeat.⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Universe+🌌;Frontend+Developer+from+Bangladesh+🚀;Learning+JavaScript+and+Building+Projects+🔥;Code.+Create.+Innovate.+Repeat.⚡" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Quantum%20Nest&fontSize=42&color=0:00F7FF,100:6A00FF&stroke=00F7FF" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Quantum%20Nest&fontSize=42&color=0:00F7FF,100:6A00FF&stroke=00F7FF" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quantum-nest-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=quantum-nest-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🌌 About Me
-
-<table>
-<tr>
-<td>
 
 - 🔭 Currently working on a **Telegram Project**
 - 🌱 Currently learning **JavaScript**
@@ -28,22 +24,24 @@
 - ⚡ Love making simple things look amazing
 - 🎯 Mission: **Build creative digital experiences**
 
-</td>
+---
 
-<td>
+## 💻 Coding Zone
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" style="border-radius: 15px; border: 2px solid #00F7FF; padding: 6px;" />
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Coding Boy" />
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <b>⚡ Building ideas into reality through code ⚡</b>
+</p>
 
 ---
 
 ## ⚔️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -51,11 +49,21 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="50" />
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="50" />
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="50" />
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="45" />
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="45" />
+  <a href="https://archiveprogram.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="50" alt="Archive Badge" />
+  </a>
+  <a href="https://docs.github.com/en/developers">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="50" alt="Developer Badge" />
+  </a>
+  <a href="https://github.com/pricing">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="50" alt="Pro Badge" />
+  </a>
+  <a href="https://stars.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="45" alt="Star Badge" />
+  </a>
+  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="45" alt="Sponsor Badge" />
+  </a>
 </p>
 
 ---
@@ -63,16 +71,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quantum-nest-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=quantum-nest-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=quantum-nest-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum-nest-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=quantum-nest-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum-nest-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=quantum-nest-dev&theme=radical&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=quantum-nest-dev&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -102,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
 
 ---
@@ -110,5 +118,5 @@
 ## 🛸 Quantum Zone
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer" alt="Footer" />
 </p>
