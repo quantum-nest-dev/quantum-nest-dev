@@ -1,4 +1,4 @@
-<h1 align="center">⚡ 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑵𝒆𝒔𝒕 ⚡</h1>
+<h1 align="center">⟪ 𝗤𝗨𝗔𝗡𝗧𝗨𝗠 𝗡𝗘𝗦𝗧 ⟫</h1>
 <h3 align="center">🚀 Frontend Developer | Bangladesh 🇧🇩</h3>
 
 <p align="center">
